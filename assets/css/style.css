@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+  
+}
+/*------------------------------------- BODY -------------------------------------------------------*/
+ body {  
+  background-image: url("../images/wallpaper1.jpg");
+  background-repeat: repeat;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  color: #fff;
+  text-align: center;
+  font-size: 13px;
+  margin: 20px;
+  }
+  .jumbosetting {
+    background-color: black ;
+    border-radius: 18.3rem;
+    width: 1153px;
+    height: auto;
+    margin-top: 50px;
+  }
+  h1{
+  	color: green;
+  	font-size: 30px;
+  	font-weight: bolder;
+
+  }
+  h2{
+  	color: white;
+  	font-size: 20px;
+  	font-weight: bolder;
+    }
+  .row{
+  	align-items: center;
+  	margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 25px;
+  }
+  img{
+  	margin: 20px;
+  }
+  ul{
+  	font-weight: bolder;
+  	font-size: 20px;
+    margin: 5px;
+  }
